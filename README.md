@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Next.js%20Marketplace%20Boilerplate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Production-Ready+Marketplace+Platform;Next.js+14+%7C+TypeScript+%7C+PostgreSQL;Built+by+VertexElite" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Production-Ready+Marketplace+Platform;Next.js+14+%7C+TypeScript+%7C+PostgreSQL;Built+by+VertexElite" alt="Typing SVG" />
 
 <br/>
 
